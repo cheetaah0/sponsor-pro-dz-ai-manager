@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#172b4d"/></linearGradient></defs><rect width="1024" height="1024" rx="190" fill="url(#bg)"/><circle cx="512" cy="430" r="290" fill="none" stroke="#d8b45a" stroke-width="24"/><path d="M650 310c-44-48-105-72-184-72-118 0-196 60-196 151 0 82 58 121 180 146l78 16c62 13 88 29 88 58 0 37-42 61-111 61-74 0-135-28-190-82l-75 91c64 66 157 101 267 101 139 0 229-64 229-166 0-83-52-124-174-149l-88-18c-59-12-84-26-84-54 0-30 36-50 92-50 57 0 108 19 151 58z" fill="#f5f1e7"/><path d="M300 765h424" stroke="#18a6a6" stroke-width="28" stroke-linecap="round"/><text x="512" y="855" text-anchor="middle" font-family="Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="7" fill="#f5f1e7">SPONSOR PRO DZ</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Sponsor Pro DZ app icon</title>
+  <desc id="desc">Premium navy and gold monogram mark for Sponsor Pro DZ.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1428"/>
+      <stop offset="1" stop-color="#182B49"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5D98A"/>
+      <stop offset=".52" stop-color="#D7AD52"/>
+      <stop offset="1" stop-color="#A9782D"/>
+    </linearGradient>
+    <linearGradient id="ivory" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCE5F0"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" rx="210" fill="url(#background)"/>
+  <circle cx="512" cy="470" r="342" fill="#000000" opacity=".16" filter="url(#shadow)"/>
+  <circle cx="512" cy="454" r="326" fill="none" stroke="#D7AD52" stroke-opacity=".22" stroke-width="3"/>
+  <circle cx="512" cy="454" r="298" fill="none" stroke="url(#gold)" stroke-width="13"/>
+  <path d="M276 681 C354 758 462 801 576 790 C688 780 780 722 833 632" fill="none" stroke="#23B7B0" stroke-width="15" stroke-linecap="round"/>
+  <path d="M797 620 L843 614 L829 660" fill="none" stroke="#23B7B0" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M644 260 C598 223 541 204 478 204 C342 204 257 278 257 388 C257 487 322 535 464 566 L550 585 C622 601 650 621 650 659 C650 704 602 733 526 733 C442 733 369 699 306 637" fill="none" stroke="url(#ivory)" stroke-width="77" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M584 300 C548 278 507 268 462 268" fill="none" stroke="url(#gold)" stroke-width="15" stroke-linecap="round"/>
+  <path d="M718 334 L758 294 L758 374" fill="none" stroke="url(#gold)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="512" y="892" text-anchor="middle" fill="#F5F1E7" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="8">SPONSOR PRO DZ</text>
+</svg>
